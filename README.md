@@ -16,3 +16,7 @@ commit by user:Alanwang2015 alanwang.sdu@gmail.com
 commit by user:Alan Wang alanwang.sdu@gmail.com
 
 commit by user:Alan Wang alanwang.sdu@gmail.com -> Alanwang2015
+
+
+# Alanscut
+commit by user:Alanscut email:wp_scut@163.com
