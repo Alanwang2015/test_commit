@@ -20,3 +20,6 @@ commit by user:Alan Wang alanwang.sdu@gmail.com -> Alanwang2015
 
 # Alanscut
 commit by user:Alanscut email:wp_scut@163.com
+
+# Alanwang2015
+submit a PR online
